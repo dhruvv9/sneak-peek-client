@@ -1,3 +1,13 @@
+
+#  I am thrilled to present my latest creation, an E-Commerce web application built from scratch, which is fully interactive
+# tech stack - 
+  frontend- React.js, sass.
+  Backend- Nod.js, Axios.
+  database: strapi
+# access the backend from -https://lnkd.in/gAktT_Uh
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
